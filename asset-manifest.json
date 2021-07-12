@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nailit/static/css/main.eeab4d01.chunk.css",
+    "main.js": "/nailit/static/js/main.139b600d.chunk.js",
+    "main.js.map": "/nailit/static/js/main.139b600d.chunk.js.map",
+    "runtime-main.js": "/nailit/static/js/runtime-main.185c6111.js",
+    "runtime-main.js.map": "/nailit/static/js/runtime-main.185c6111.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/nailit/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.61e84ef1.chunk.js": "/nailit/static/js/2.61e84ef1.chunk.js",
+    "static/js/2.61e84ef1.chunk.js.map": "/nailit/static/js/2.61e84ef1.chunk.js.map",
+    "static/js/3.8cd79eef.chunk.js": "/nailit/static/js/3.8cd79eef.chunk.js",
+    "static/js/3.8cd79eef.chunk.js.map": "/nailit/static/js/3.8cd79eef.chunk.js.map",
+    "index.html": "/nailit/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/nailit/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.eeab4d01.chunk.css.map": "/nailit/static/css/main.eeab4d01.chunk.css.map",
+    "static/js/2.61e84ef1.chunk.js.LICENSE.txt": "/nailit/static/js/2.61e84ef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.185c6111.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.61e84ef1.chunk.js",
+    "static/css/main.eeab4d01.chunk.css",
+    "static/js/main.139b600d.chunk.js"
+  ]
+}
